@@ -10,7 +10,7 @@ An advanced text-based chatbot, skillfully integrated with AR (Augmented Reality
 
 **Backend:** Python
 
-**Database:** NoSql with Amazon dataset
+**Database:** Mongodb with Amazon dataset
 
 
 
